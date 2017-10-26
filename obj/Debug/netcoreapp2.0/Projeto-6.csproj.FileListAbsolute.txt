@@ -1,0 +1,10 @@
+C:\Users\39694603870\Desktop\Projetos\Projeto-6\bin\Debug\netcoreapp2.0\Projeto-6.deps.json
+C:\Users\39694603870\Desktop\Projetos\Projeto-6\bin\Debug\netcoreapp2.0\Projeto-6.runtimeconfig.json
+C:\Users\39694603870\Desktop\Projetos\Projeto-6\bin\Debug\netcoreapp2.0\Projeto-6.runtimeconfig.dev.json
+C:\Users\39694603870\Desktop\Projetos\Projeto-6\bin\Debug\netcoreapp2.0\Projeto-6.dll
+C:\Users\39694603870\Desktop\Projetos\Projeto-6\bin\Debug\netcoreapp2.0\Projeto-6.pdb
+C:\Users\39694603870\Desktop\Projetos\Projeto-6\obj\Debug\netcoreapp2.0\Projeto-6.csproj.CoreCompileInputs.cache
+C:\Users\39694603870\Desktop\Projetos\Projeto-6\obj\Debug\netcoreapp2.0\Projeto-6.AssemblyInfoInputs.cache
+C:\Users\39694603870\Desktop\Projetos\Projeto-6\obj\Debug\netcoreapp2.0\Projeto-6.AssemblyInfo.cs
+C:\Users\39694603870\Desktop\Projetos\Projeto-6\obj\Debug\netcoreapp2.0\Projeto-6.dll
+C:\Users\39694603870\Desktop\Projetos\Projeto-6\obj\Debug\netcoreapp2.0\Projeto-6.pdb
